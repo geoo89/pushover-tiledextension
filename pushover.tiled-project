@@ -1,0 +1,24 @@
+{
+    "automappingRulesFile": "",
+    "commands": [
+        {
+            "arguments": "PUSH.EXE",
+            "command": "dosbox",
+            "enabled": true,
+            "name": "playtest",
+            "saveBeforeExecute": true,
+            "shortcut": "F2",
+            "showOutput": true,
+            "workingDirectory": "%projectpath"
+        }
+    ],
+    "extensionsPath": "tiled/extensions",
+    "folders": [
+        "SCREENS",
+        "tiled"
+    ],
+    "properties": [
+    ],
+    "propertyTypes": [
+    ]
+}
