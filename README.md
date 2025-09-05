@@ -90,11 +90,12 @@ and reopening the map. Background is erased in the process.
 
 Backgrounds are hard to edit tile by tile. _Tile stamps_ make editing
 easier by grouping tiles into sensible units that can be applied to the
-background. I have only compiled tile stamps for the _Greek_ and
-_Castle_ themes so far. Further contributions are appreciated; looking
-at the original levels can help to understand tile usage and create new
-stamps.
+background. I have only partially compiled tile stamps, especially for
+_Mechanic_, _Toxcity_, _Electro_, _Space_ and _Aztec_ more can be done,
+and no stamps are available for the _Cavern_ theme yet.
+Contributions are appreciated; looking at the original levels can help
+to understand tile usage and create new stamps.
 
-To open a folder of time stamps, click the little _Set Stamps Folder_
-icon at the bottom right of the tile stamps panel.
-You can then apply stamps and create your own.
+To open a folder of tile stamps, click the little _Set Stamps Folder_
+icon at the bottom right of the tile stamps panel and select the stamps
+for the appropriate theme. You can then apply stamps and create your own.
